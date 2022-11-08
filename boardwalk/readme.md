@@ -6,6 +6,7 @@ This is Nic's Boardwalk layout, which is based off of the default Pok3r layout.
 
 - QWERTY base layer with Colemak support
 - QWERTY bottom row set up for Mac usage (use `MACWIN`/`AG_TOGG` to toggle)
+- Colemak bottom row set up for Windows usage
 - Latching Numpad layer for data entry (press NUM key twice to latch)
 - Uses [Space Cadet shift keys](https://docs.qmk.fm/#/feature_space_cadet?id=usage)
 
