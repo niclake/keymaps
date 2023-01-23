@@ -15,14 +15,8 @@
 
 #pragma once
 
-#define VIAL_KEYBOARD_UID {0x47, 0x89, 0x90, 0x76, 0xAB, 0x3D, 0x3A, 0xD2}
-
-#define VIAL_UNLOCK_COMBO_ROWS {0, 0}
-#define VIAL_UNLOCK_COMBO_COLS {0, 1}
-
 #define TAPPING_TOGGLE 2
-#define VIAL_COMBO_ENTRIES 10
+#define COMBO_COUNT 10
 #define IGNORE_MOD_TAP_INTERRUPT
 #define TAPPING_TERM 150
 #define COMBO_TERM 30
-// #define DYNAMIC_KEYMAP_LAYER_COUNT 6 // default is 4
